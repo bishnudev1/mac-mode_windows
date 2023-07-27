@@ -1,7 +1,4 @@
-# mac-mode_windows
-Step by step tutorial how to use your windows laptop in full performance mode while it's not plugged in just like Macbooks.
-
-# Hey Windows Lover
+# MacOS Efficiency Mode in Windows
 ## If you are a windows lover just like me and can't be able to switch to Mac yet for that reason then I can help you achieving almost same Mac like performance in your windows machine hehe.
 
 ### Let's go step by step
